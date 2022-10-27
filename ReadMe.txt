@@ -3,4 +3,4 @@ Simply superb
 One more change!
 Change in remote trunk
 Direct edit of readme.txt in trunk branch
-second direct edit of readme.txt in trunk branch + 3
+fourth direct edit of readme.txt in trunk branch + 3 + 4
